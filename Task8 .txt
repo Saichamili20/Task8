@@ -1,0 +1,10 @@
+Insights found in the dashboard
+
+
+Top-Performing Segment – The Consumer segment appears to be generating the highest sales overall, suggesting that targeted marketing campaigns towards this group could yield higher returns compared to Corporate or Home Office segments.
+
+Category-Wise Sales Concentration – Technology products contribute significantly to total sales, especially within the Consumer segment. This indicates a strong demand for tech-related items, making it a strategic focus area for upselling and bundling.
+
+Profitability Gaps Across Categories – While some categories (like Office Supplies) generate steady sales volume, their profit contribution is lower compared to Technology. This points to a need for pricing adjustments or cost optimizations in lower-margin categories.
+
+Segment–Category Combinations for Growth – The Technology–Consumer and Office Supplies–Corporate combinations stand out as profitable and high-sales clusters. Expanding product variety and marketing efforts in these combinations can help maximize revenue.
